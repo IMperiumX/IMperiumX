@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "250px" src="https://github.com/yusufadell/Profile/blob/main/1619977655.png" alt="cover" />
+<img width="100%" height = "100%" src="/home/yusuflinux/Downloads/image (1).png" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
@@ -49,7 +49,12 @@
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
-![Metrics](https://metrics.lecoq.io/about/yusufadell)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufadell&hide=contribs&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
