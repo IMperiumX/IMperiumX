@@ -6,7 +6,6 @@
 <p align='center'>
 
 
-[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computerscience) 
   <br /> ![visitors](https://visitor-badge.glitch.me/badge?page_id=yusufadell.yusufadell)
 </p>
 <div size='20px'> Hi! My name is Yusuf. Thank You for taking the time to view my GitHub Profile :smile:
