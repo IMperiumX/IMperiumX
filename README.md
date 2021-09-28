@@ -2,8 +2,7 @@
 <div align="center">
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
+<h1> Hello Fellow < Developers/ >!
 
 
   <br /> ![visitors](https://visitor-badge.glitch.me/badge?page_id=yusufadell.yusufadell)
@@ -26,7 +25,7 @@
 
 - :mailbox: How to reach me: <a href="mailto:youseefadel777@gmail.com" title="Gmail"> <img src="./icons/mail.svg" alt="youseefadel777@gmail.com" width="25px"></a>
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills </h2>
 <a href= https://github.com/yusufadell?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='./icons/python.svg'> </a>
 <a href= https://github.com/yusufadell?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' src ='./icons/linux.svg'> </a>
 <a href= https://github.com/yusufadell?tab=repositories&q=&type=&language=django&sort= > <img width ='32px' src ='./icons/django.svg'> </a>
