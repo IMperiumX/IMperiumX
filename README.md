@@ -7,7 +7,9 @@
 
   <br /> ![visitors](https://visitor-badge.glitch.me/badge?page_id=yusufadell.yusufadell)
 </p>
-<div size='20px'> Hi! My name is Yusuf. Thank You for taking the time to view my GitHub Profile :smile:
+<div size='20px'> Hi I'm Yusuf, a sophomore computer science student, who enjoys learning new things and
+experimenting with upcoming fields/technologies.
+
 </div>
 
 <h2> About Me</h2>
@@ -15,13 +17,16 @@
 <img width="55%" align="right" alt="Github" src="https://github.githubassets.com/images/modules/notifications/inbox-zero-dark.svg" />
 
 
-- 🔭 I’m currently working on Writing Technical Articles & GitHub Projects >>Django App
+✨ I function best in fast-paced environments where collaboration and mentor-ship
+are highly valued. Currently looking to gain experience in Back-end/Infrastructure Engineering, Cloud Computing.
 
-- 🌱 I’m currently learning Web Development, Azure, Data Visualization
+🎓Until graduation?
+- I'm learning the fundamentals of programming and it's applications to develop processes and products that are both useful and sustainable. 
 
-- 👯 I’m looking to collaborate on Projects, Tech Articles
+🔭My aspiration
+- I want to keep learning and growing both My interpersonal and technical skills so that I can strive to be the most successful version of myself.
 
-- 💬 Talk to me about Python, Software Development, Open Source
+Send me a massage if you'd like to offer an opportunity, I'm always happy to support others and I love hearing different stories
 
 - :mailbox: How to reach me: <a href="mailto:youseefadel777@gmail.com" title="Gmail"> <img src="./icons/mail.svg" alt="youseefadel777@gmail.com" width="25px"></a>
 
@@ -52,13 +57,6 @@
 ![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufadell&hide=contribs&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufadell&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
 
 <br>
