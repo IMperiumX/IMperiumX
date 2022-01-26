@@ -1,16 +1,15 @@
- 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yusufadell.yusufadell)
 
 <br>
 
-<h1 align="center"> Hi, I'm Yusuf <img style="width:40px" src="https://github.com/chrisngyn/chrisngyn/raw/master/Hi.gif"> </h1>
-
+<h1 align="center"> Hi, I'm Yusuf <img style="width:30px" src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif"> </h1>
 
 <div align="center">
 
- ## A sophomore computer science student :shipit:, who enjoys learning new things and experimenting with upcoming fields/technologies.
+## A sophomore computer science student :shipit:, who enjoys learning new things and experimenting with upcoming fields/technologies.
+
 <br>
- 
+
 <kbd>
 <img style="border-radius:50%" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
 </kbd>
@@ -20,24 +19,21 @@
 
 <h2 align="center"> About Me :cyclone:</h2>
 
-
-
-
 <br>
-
 
 ## ✨ Best Version
 
 ### • I function best in fast-paced environments where collaboration and mentor-ship are highly valued.
+
 ### • Currently looking to gain experience in Back-end/Infrastructure Engineering, Cloud Computing.
 
-<br> 
+<br>
 
 ## 🎓Until graduation?
 
-### • I'm learning the fundamentals of programming and it's applications to develop processes and products that are both useful and sustainable. 
+### • I'm learning the fundamentals of programming and it's applications to develop processes and products that are both useful and sustainable.
 
-<br> 
+<br>
 
 ## 🔭My aspiration
 
@@ -82,20 +78,16 @@
   
 </div>
 
-<br> 
+<br>
 
 <h2 align="center"> Github Stats</h2>
 
 <div align="center">
 
- 
-![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufadell&hide=contribs&show_icons=true&theme=radical)__[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufadell&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
- 
- 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yusufadell&theme=neon-palenight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
- 
- 
+![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufadell&hide=contribs&show_icons=true&theme=radical)\_\_[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufadell&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yusufadell&theme=neon-palenight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 </div>
 
 <br>
-
