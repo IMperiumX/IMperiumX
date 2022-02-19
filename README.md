@@ -21,7 +21,7 @@
 
 <br>
 
-## ✨ Best Version
+## ✨ Motivation
 
 ### • I function best in fast-paced environments where collaboration and mentor-ship are highly valued.
 
