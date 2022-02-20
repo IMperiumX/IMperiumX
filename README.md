@@ -80,14 +80,12 @@
 
 <br>
 
-<h2 align="center"> Github Stats</h2>
-
 <div align="center">
+
+<h2> Github Stats</h2>
 
 ![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufadell&hide=contribs&show_icons=true&theme=radical)\_\_[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufadell&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yusufadell&theme=neon-palenight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
-
-<br>
