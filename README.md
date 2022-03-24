@@ -5,6 +5,8 @@
 <!-- <h1 align="center"> Hi, I'm Yusuf <img style="width:30px" src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif"> </h1> -->
 
 <div align="center">
+  
+![See my Duck](https://media.giphy.com/media/GUPgU9C4IFdLS3WNXL/giphy.gif)
 
 ## A sophomore computer science student :shipit:, who enjoys learning new things and experimenting with upcoming fields/technologies
 
