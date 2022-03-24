@@ -6,9 +6,7 @@
 
 <div align="center">
 
-![Cartoon Me](./icons/cartoon.svg)
-
-## A sophomore computer science student :shipit:, who enjoys learning new things and experimenting with upcoming fields/technologies.
+## A sophomore computer science student :shipit:, who enjoys learning new things and experimenting with upcoming fields/technologies
 
 <br>
 
@@ -25,25 +23,25 @@
 
 ## ✨ Motivation
 
-### • I function best in fast-paced environments where collaboration and mentor-ship are highly valued.
+### • I function best in fast-paced environments where collaboration and mentor-ship are highly valued
 
-### • Currently looking to gain experience in Back-end/Infrastructure Engineering, Cloud Computing.
+### • Currently looking to gain experience in Back-end/Infrastructure Engineering, Cloud Computing
 
 <br>
 
 ## 🎓Until graduation?
 
-### • I'm learning the fundamentals of programming and it's applications to develop processes and products that are both useful and sustainable.
+### • I'm learning the fundamentals of programming and it's applications to develop processes and products that are both useful and sustainable
 
 <br>
 
 ## 🔭My aspiration
 
-### • I want to keep learning and growing both My interpersonal and technical skills so that I can strive to be the most successful version of myself.
+### • I want to keep learning and growing both My interpersonal and technical skills so that I can strive to be the most successful version of myself
 
 <br>
 
-`Send me a massage if you'd like to offer an` **opportunity** <a href="mailto:youseefadel777@gmail.com" title="Gmail"> <img src="./icons/mail.svg" alt="youseefadel777@gmail.com" width="25px"></a> , `I'm always` **happy to support** `others and ` **I love hearing** `different stories`
+`Send me a massage if you'd like to offer an` **opportunity** <a href="mailto:youseefadel777@gmail.com" title="Gmail"> <img src="./icons/mail.svg" alt="youseefadel777@gmail.com" width="25px"></a> , `I'm always` **happy to support** `others and` **I love hearing** `different stories`
 
 <br>
 
