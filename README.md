@@ -5,15 +5,15 @@
 <!-- <h1 align="center"> Hi, I'm Yusuf <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="auto" height="30px"> </h1> -->
 
 <div align="center">
-   
+
 <img src="./icons/yusuf.gif" height="100px">
 
 <br>
- 
+
 <img src="https://media.giphy.com/media/GUPgU9C4IFdLS3WNXL/giphy.gif" height="250px">
-  
+
  <hr>
-  
+
 <h2> A sophomore computer science student :shipit:, who enjoys learning new things and experimenting with upcoming fields/technologies </h2>
 
 <hr>
@@ -77,13 +77,13 @@
 <h2 align="center"> Connect</h2>
 
 <div align="center">
-  
+
 <a href = 'https://www.linkedin.com/in/yusufadel'> <img width = '32px' align= 'center' src="./icons/linked-in-alt.svg"/></a>
 <a href = 'https://www.twitter.com/WHYUSUF_'> <img width = '32px' align= 'center' src="./icons/twitter.svg"/></a>
 <a href = 'https://dev.to/yusufadel'> <img width = '32px' align= 'center' src="./icons/dev.svg"/></a>
 <a href = 'https://yusufadell.github.io'> <img width = '32px' align= 'center' src="./icons/portfolio.svg"/></a>
 <a href = 'https://www.github.com/yusufadell'> <img width = '32px' align= 'center' src='./icons/github.svg'/></a>
-  
+
 </div>
 
 <br>
@@ -102,7 +102,7 @@
 
 <!-- </details> -->
 <br>
-  
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="700"/><br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="300"/>
 </div>
