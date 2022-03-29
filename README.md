@@ -2,8 +2,6 @@
 
 <br>
 
-
-
 <!-- <h1 align="center"> Hi, I'm Yusuf <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="auto" height="30px"> </h1> -->
 
 <div align="center">
@@ -17,7 +15,6 @@
  <hr>
   
 <h2> A sophomore computer science student :shipit:, who enjoys learning new things and experimenting with upcoming fields/technologies </h2>
-
 
 <hr>
 
@@ -93,15 +90,16 @@
 
 <div align="center">
 
-
 <!--  <details>
   <summary><h2> Github Stats</h2></summary>
  -->
+
 ![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufadell&hide=contribs&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufadell&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](https://raw.githubusercontent.com/yusufadell/-profile-summary-cards/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yusufadell&theme=neon-palenight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <!-- </details> -->
 <br>
   
