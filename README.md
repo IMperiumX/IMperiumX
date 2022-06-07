@@ -2,16 +2,24 @@
 
 <br>
 
-<!-- <h1 align="center"> Hi, I'm Yusuf <img style="width:30px" src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif"> </h1> -->
+
+
+<!-- <h1 align="center"> Hi, I'm Yusuf <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="auto" height="30px"> </h1> -->
 
 <div align="center">
-  
-  <img src="./icons/yusuf.gif">
-  <img src="https://media.giphy.com/media/GUPgU9C4IFdLS3WNXL/giphy.gif" height="250px">
-  
-## A sophomore computer science student :shipit:, who enjoys learning new things and experimenting with upcoming fields/technologies
+   
+<img src="./icons/yusuf.gif" height="100px">
 
 <br>
+ 
+<img src="https://media.giphy.com/media/GUPgU9C4IFdLS3WNXL/giphy.gif" height="250px">
+  
+ <hr>
+  
+<h2> A sophomore computer science student :shipit:, who enjoys learning new things and experimenting with upcoming fields/technologies </h2>
+
+
+<hr>
 
 <!-- <kbd>
 <img style="border-radius:50%" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
@@ -85,14 +93,16 @@
 
 <div align="center">
 
-<h2> Github Stats</h2>
+
+ <details>
+  <summary><h2> Github Stats</h2></summary>
 
 ![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufadell&hide=contribs&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufadell&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](https://raw.githubusercontent.com/yusufadell/-profile-summary-cards/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yusufadell&theme=neon-palenight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+</details>
 <br>
   
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="700"/><br>
