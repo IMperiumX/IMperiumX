@@ -10,10 +10,6 @@
    
 <img src="./icons/yusuf.gif" height="100px">
 
-<br>
- 
-<img src="https://media.giphy.com/media/GUPgU9C4IFdLS3WNXL/giphy.gif" height="250px">
-  
  <hr>
   
 <h2> A sophomore computer science student :shipit:, who enjoys learning new things and experimenting with upcoming fields/technologies </h2>
@@ -94,15 +90,14 @@
 <div align="center">
 
 
- <details>
-  <summary><h2> Github Stats</h2></summary>
+
 
 ![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufadell&hide=contribs&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufadell&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](https://raw.githubusercontent.com/yusufadell/-profile-summary-cards/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yusufadell&theme=neon-palenight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-</details>
+
 <br>
   
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="700"/><br>
