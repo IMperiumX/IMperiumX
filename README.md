@@ -26,13 +26,13 @@
 
 <br>
 
-## 🎓Until graduation?
+## 🎓 Until graduation?
 
 ### • I'm learning the fundamentals of programming and it's applications to develop processes and products that are both useful and sustainable
 
 <br>
 
-## 🔭My aspiration
+## 🔭 My aspiration
 
 ### • I want to keep learning and growing both My interpersonal and technical skills so that I can strive to be the most successful version of myself
 
