@@ -1,26 +1,16 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yusufadell.yusufadell)
 
-<br>
-
-
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 <!-- <h1 align="center"> Hi, I'm Yusuf <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="auto" height="30px"> </h1> -->
 
-<div align="center">
-   
-<img src="./icons/yusuf.gif" height="100px">
-
+<div align='center'>
+<img align='center' src="./icons/yusuf.gif" height="100px">
+</div>
  <hr>
   
-<h2> A sophomore computer science student :shipit:, who enjoys learning new things and experimenting with upcoming fields/technologies </h2>
-
-
-<hr>
-
-<!-- <kbd>
-<img style="border-radius:50%" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
-</kbd> -->
-</div>
+<h2 align='center'> A sophomore computer science student :shipit:, who enjoys learning new things and experimenting with upcoming fields/technologies </h2>
 
 <br>
 
