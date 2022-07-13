@@ -79,9 +79,6 @@
 
 <div align="center">
 
-
-
-
 ![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufadell&hide=contribs&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufadell&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](https://raw.githubusercontent.com/yusufadell/-profile-summary-cards/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
