@@ -9,7 +9,7 @@
 <img align='center' src="./icons/yusuf.gif" height="100px">
 </div>
  <hr>
-  
+
 <h2 align='center'> A sophomore computer science student :shipit:, who enjoys learning new things and experimenting with upcoming fields/technologies </h2>
 
 <br>
@@ -66,13 +66,13 @@
 <h2 align="center"> Connect</h2>
 
 <div align="center">
-  
+
 <a href = 'https://www.linkedin.com/in/yusufadel'> <img width = '32px' align= 'center' src="./icons/linked-in-alt.svg"/></a>
 <a href = 'https://www.twitter.com/WHYUSUF_'> <img width = '32px' align= 'center' src="./icons/twitter.svg"/></a>
 <a href = 'https://dev.to/yusufadel'> <img width = '32px' align= 'center' src="./icons/dev.svg"/></a>
 <a href = 'https://yusufadell.github.io'> <img width = '32px' align= 'center' src="./icons/portfolio.svg"/></a>
 <a href = 'https://www.github.com/yusufadell'> <img width = '32px' align= 'center' src='./icons/github.svg'/></a>
-  
+
 </div>
 
 <br>
@@ -86,7 +86,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yusufadell&theme=neon-palenight&date_format=M%20j%5B%2C%20Y%5D)](https://github-readme-streak-stats.herokuapp.com/?user=yusufadell&theme=neon-palenight&date_format=M%20j%5B%2C%20Y%5D)
 
 <br>
-  
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="700"/><br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="300"/>
 </div>
