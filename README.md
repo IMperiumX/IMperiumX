@@ -86,7 +86,7 @@
 
 [![](https://raw.githubusercontent.com/yusufadell/-profile-summary-cards/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yusufadell&theme=neon-palenight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yusufadell&theme=neon-palenight&date_format=M%20j%5B%2C%20Y%5D)](https://github-readme-streak-stats.herokuapp.com/?user=yusufadell&theme=neon-palenight&date_format=M%20j%5B%2C%20Y%5D)
 
 <br>
   
