@@ -10,9 +10,11 @@
 </div>
  <hr>
   
-<h2 align='center'> A sophomore computer science student :shipit:, who enjoys learning new things and experimenting with upcoming fields/technologies </h2>
+<h2 align='center'> computer science student :shipit:, who enjoys learning new things and experimenting with upcoming fields/technologies </h2>
 
 <br>
+
+- 🔭  [all merged PRs](https://github.com/pulls?q=is%3Apr+author%3Ayusufadell+archived%3Afalse+is%3Amerged+)
 
 <h2 align="center"> About Me :cyclone:</h2>
 
@@ -78,9 +80,6 @@
 <br>
 
 <div align="center">
-
-
-
 
 ![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufadell&hide=contribs&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufadell&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
