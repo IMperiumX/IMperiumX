@@ -1,8 +1,7 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yusufadell.yusufadell)
 
 # Hi there 👋 - - 🔭  [all merged PRs](https://github.com/pulls?q=is%3Apr+author%3Ayusufadell+archived%3Afalse+is%3Amerged+)
 
-<div align="left">
+![visitors](https://visitor-badge.glitch.me/badge?page_id=yusufadell.yusufadell)<div align="left">
   <a href="https://twitter.com/WHYUSUF_">
     <img
       src="https://img.shields.io/twitter/follow/WHYUSUF_?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
@@ -29,9 +28,17 @@
 ![Notable contributions](https://raw.githubusercontent.com/yusufadell/yusufadell/github-metrics/notable.svg)
 ![Achievements](https://raw.githubusercontent.com/yusufadell/yusufadell/github-metrics/achievements.svg)
 
+<div align="center">
+
+<h2> Connect 👀</h2>
+<a href = 'https://www.linkedin.com/in/yusufadel'> <img width='35' src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href = 'https://www.twitter.com/WHYUSUF_'> <img width='35' src="https://skillicons.dev/icons?i=twitter"/></a>
+<a href = 'https://www.github.com/yusufadell'> <img width='35' src="https://skillicons.dev/icons?i=github"/></a>
+<br>
+
 <!-- icons => &perline=3 -->
  <details open>
-    <summary><b>🛠️ Development Stack</b></summary>
+    <summary><h1>🛠️ Development Stack</h1></summary>
     <table>
       <tr>
         <th align="right">Category</th>
@@ -64,15 +71,18 @@
     </table>
   </details>
 
-<div align="center">
+ </div>
 
-<h2> About Me :cyclone:</h2>
+ <details >
+    <summary><h2> More details about me</h2></summary>
+
+## About Me 🌀
 
 ### I am highly motivated and very imaginative by finding inspirations in everyday things, pushing my own boundaries and allowing myself to think out of the box
 
 <br>
 
-<h2> Motivation ✨</h2>
+## Motivation ✨
 
 ### • I function best in fast-paced environments where collaboration and mentor-ship are highly valued
 
@@ -80,38 +90,26 @@
 
 <br>
 
-<h2> 🎓 Until graduation?</h2>
+## 🎓 Until graduation?
 
 ### • I'm learning the fundamentals of programming and it's applications to develop processes and products that are both useful and sustainable
 
 <br>
 
-<h2> 🔭 My aspiration</h2>
+## 🔭 My aspiration
 
 ### • I want to keep learning and growing both My interpersonal and technical skills so that I can strive to be the most successful version of myself
 
 <br>
 
-`Send me a massage if you'd like to offer an` **opportunity** <a href="mailto:youseefadel777@gmail.com" title="Gmail"> <img src="./icons/mail.svg" alt="youseefadel777@gmail.com" width="25px"></a> , `I'm always` **happy to support** `others and` **I love hearing** `different stories`
+</details>
 
-<br>
+Email 💌: <a href="mailto:yusufadell.dev@gmail.com" title="Gmail">yusufadell.dev@gmail.com</a>
 
-<h2> Skills ⚒</h2>
+`Send me a massage if you'd like to offer an` **opportunity** , `I'm always` **happy to support** `others and` **I love hearing** `different stories`
 
-<br>
-
-<br>
-
-<h2> Connect 👀</h2>
-
-<a href = 'https://www.linkedin.com/in/yusufadel'> <img width='35' src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href = 'https://www.twitter.com/WHYUSUF_'> <img width='35' src="https://skillicons.dev/icons?i=twitter"/></a>
-<a href = 'https://www.github.com/yusufadell'> <img width='35' src="https://skillicons.dev/icons?i=github"/></a>
-
-</div>
-
-<br>
-
+<details open>
+    <summary><h2>📊 My Github Stats</h2></summary>
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yusufadell&theme=neon-palenight&date_format=M%20j%5B%2C%20Y%5D)](https://github-readme-streak-stats.herokuapp.com/?user=yusufadell&theme=neon-palenight&date_format=M%20j%5B%2C%20Y%5D)
@@ -125,3 +123,5 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="700"/><br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="300"/>
 </div>
+
+</details>
