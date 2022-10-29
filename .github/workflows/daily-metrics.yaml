@@ -81,10 +81,10 @@ jobs:
           template: classic
           base: ""
           config_display: large
-          config_timezone: Europe/Oslo
+          config_timezone: Africa/Cairo
           config_output: svg
           filename: achievements.svg
-          repositories_batch: 5
+          repositories_batch: 7
 
           # Achievement plugin
           plugin_achievements: yes
