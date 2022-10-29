@@ -64,7 +64,7 @@
       </tr>
     </table>
   </details>
-  
+
 <!-- <div align='center'>
 <img align='center' src="./icons/yusuf.gif" height="100px">
 </div> -->
@@ -73,9 +73,11 @@
 
 <h2 align="center"> About Me :cyclone:</h2>
 
+### I am highly motivated and very imaginative by finding inspirations in everyday things, pushing my own boundaries and allowing myself to think out of the box
+
 <br>
 
-## ✨ Motivation
+<h2 align="center"> Motivation ✨</h2>
 
 ### • I function best in fast-paced environments where collaboration and mentor-ship are highly valued
 
@@ -83,13 +85,13 @@
 
 <br>
 
-## 🎓 Until graduation?
+<h2 align="center"> 🎓 Until graduation?</h2>
 
 ### • I'm learning the fundamentals of programming and it's applications to develop processes and products that are both useful and sustainable
 
 <br>
 
-## 🔭 My aspiration
+<h2 align="center"> 🔭 My aspiration</h2>
 
 ### • I want to keep learning and growing both My interpersonal and technical skills so that I can strive to be the most successful version of myself
 
