@@ -4,6 +4,7 @@
 <img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150'>
 
 <!-- <h1 align="center"> Hi, I'm Yusuf <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="auto" height="30px"> </h1> -->
+
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/yusufadell/yusufadell/blob/devcard/devcard.svg" width="400" alt="Yusuf Adel's Dev Card"/></a>
 
 <div align='center'>
@@ -15,7 +16,7 @@
 
 <br>
 
-- 🔭  [all merged PRs](https://github.com/pulls?q=is%3Apr+author%3Ayusufadell+archived%3Afalse+is%3Amerged+)
+- 🔭 [all merged PRs](https://github.com/pulls?q=is%3Apr+author%3Ayusufadell+archived%3Afalse+is%3Amerged+)
 
 <h2 align="center"> About Me :cyclone:</h2>
 
