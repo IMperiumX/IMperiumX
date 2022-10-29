@@ -35,10 +35,40 @@
 ![Notable contributions](https://raw.githubusercontent.com/yusufadell/yusufadell/github-metrics/notable.svg)
 ![Achievements](https://raw.githubusercontent.com/yusufadell/yusufadell/github-metrics/achievements.svg)
 
+ <details open>
+    <summary><b>🛠️ Development Stack</b></summary>
+    <table>
+      <tr>
+        <th align="right">Category</th>
+        <th align="left">Technologies</th>
+      </tr>
+      <tr>
+        <td align="right">Core</td>
+        <td><img src="https://skillicons.dev/icons?i=ts,js,cs,py,cpp,go,rust,nodejs,deno,dotnet,redis" height="35px"/></td>
+      </tr
+      <tr>
+        <td align="right">Frontend</td>
+        <td><img src="https://skillicons.dev/icons?i=svelte,html,css,sass,webpack,jquery" height="35px"/></td>
+      </tr>
+      <tr>
+        <td align="right">Server</td>
+        <td><img src="https://skillicons.dev/icons?i=docker,heroku,gcp,grafana,prometheus" height="35px"/></td>
+      </tr>
+      <tr>
+        <td align="right">Miscellaneous</td>
+        <td><img src="https://skillicons.dev/icons?i=linux,bash,markdown,latex,regex,git,github,powershell,raspberrypi,vscode,visualstudio" height="35px"/></td>
+      </tr>
+      <tr>
+        <td align="right">Creative</td>
+        <td><img src="https://skillicons.dev/icons?i=blender,unity,ableton,ae,au,ps,pr,ai" height="35px"/></td>
+      </tr>
+    </table>
+  </details>
+  
 <!-- <div align='center'>
 <img align='center' src="./icons/yusuf.gif" height="100px">
 </div> -->
-<!--   
+<!--
 <h2 align='center'> computer science student :shipit:, who enjoys learning new things and experimenting with upcoming fields/technologies </h2> -->
 
 <h2 align="center"> About Me :cyclone:</h2>
@@ -73,7 +103,7 @@
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
 
 <a href= https://github.com/yusufadell> <img width ='32px' src ='icons/python.svg'></a>
 <a href= https://github.com/yusufadell> <img width ='32px' src ='icons/linux.svg'></a>
@@ -86,20 +116,20 @@
 <a href= https://github.com/yusufadell> <img width ='32px' src ='icons/azure.svg'></a>
 <a href= https://github.com/yusufadell> <img width ='32px' src ='icons/heroku.svg'></a>
 
-</div>
+</div> -->
 
 <br>
 
 <h2 align="center"> Connect</h2>
 
 <div align="center">
-  
+
 <a href = 'https://www.linkedin.com/in/yusufadel'> <img width = '32px' align= 'center' src="./icons/linked-in-alt.svg"/></a>
 <a href = 'https://www.twitter.com/WHYUSUF_'> <img width = '32px' align= 'center' src="./icons/twitter.svg"/></a>
 <a href = 'https://dev.to/yusufadel'> <img width = '32px' align= 'center' src="./icons/dev.svg"/></a>
 <a href = 'https://yusufadell.github.io'> <img width = '32px' align= 'center' src="./icons/portfolio.svg"/></a>
 <a href = 'https://www.github.com/yusufadell'> <img width = '32px' align= 'center' src='./icons/github.svg'/></a>
-  
+
 </div>
 
 <br>
@@ -110,12 +140,10 @@
 
 ![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufadell&hide=contribs&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufadell&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
 [![](https://raw.githubusercontent.com/yusufadell/-profile-summary-cards/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <br>
-  
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="700"/><br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="300"/>
 </div>
