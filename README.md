@@ -6,14 +6,36 @@
 <!-- <h1 align="center"> Hi, I'm Yusuf <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="auto" height="30px"> </h1> -->
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/yusufadell/yusufadell/blob/devcard/devcard.svg" width="400" alt="Yusuf Adel's Dev Card"/></a>
 
-<div align='center'>
-<img align='center' src="./icons/yusuf.gif" height="100px">
-</div>
- <hr>
-  
-<h2 align='center'> computer science student :shipit:, who enjoys learning new things and experimenting with upcoming fields/technologies </h2>
+# Hi there 👋
 
-<br>
+<div align="left">
+  <a href="https://twitter.com/WHYUSUF_">
+    <img
+      src="https://img.shields.io/twitter/follow/WHYUSUF_?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/yusufadell/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://app.daily.dev/yusufadell" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://github.com/yusufadell/yusufadell/blob/devcard/devcard.svg"
+    />
+  </a>
+</div>
+
+<!-- <div align='center'>
+<img align='center' src="./icons/yusuf.gif" height="100px">
+</div> -->
+<!--   
+<h2 align='center'> computer science student :shipit:, who enjoys learning new things and experimenting with upcoming fields/technologies </h2> -->
 
 - 🔭  [all merged PRs](https://github.com/pulls?q=is%3Apr+author%3Ayusufadell+archived%3Afalse+is%3Amerged+)
 
@@ -93,3 +115,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="700"/><br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="300"/>
 </div>
+
+![Metrics](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/github-metrics.svg)
+![Notable contributions](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/notable.svg)
+![Achievements](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/achievements.svg)
