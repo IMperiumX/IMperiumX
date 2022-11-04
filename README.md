@@ -31,7 +31,7 @@
 <div align="center">
 
 <h2> Connect 👀</h2>
-<a href = 'https://www.linkedin.com/in/yusufadel'> <img width='35' src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href = 'https://www.linkedin.com/in/yusufadell'> <img width='35' src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href = 'https://www.twitter.com/WHYUSUF_'> <img width='35' src="https://skillicons.dev/icons?i=twitter"/></a>
 <a href = 'https://www.github.com/yusufadell'> <img width='35' src="https://skillicons.dev/icons?i=github"/></a>
 <br>
