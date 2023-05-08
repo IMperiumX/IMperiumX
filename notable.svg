@@ -83,7 +83,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">benchmark</span>
-                                <div class="bar" style="width: 6.736%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 6.728000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">8%</span>
                             </div>
                             <div class="entry">
@@ -103,7 +103,7 @@
                             </div>
                             <div class="entry">
                                 <span class="name">gray-labs</span>
-                                <div class="bar" style="width: 4.936%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.928%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
                             </div>
                         </div>
