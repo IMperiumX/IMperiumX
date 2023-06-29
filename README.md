@@ -112,7 +112,7 @@ Email 💌: <a href="mailto:yusufadell.dev@gmail.com" title="Gmail">yusufadell.d
     <summary><h2>📊 My Github Stats</h2></summary>
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yusufadell&theme=neon-palenight&date_format=M%20j%5B%2C%20Y%5D)](https://github-readme-streak-stats.herokuapp.com/?user=yusufadell&theme=neon-palenight&date_format=M%20j%5B%2C%20Y%5D)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imperiumx&theme=neon-palenight&date_format=M%20j%5B%2C%20Y%5D)](https://github-readme-streak-stats.herokuapp.com/?user=yusufadell&theme=neon-palenight&date_format=M%20j%5B%2C%20Y%5D)
 
 ![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufadell&hide=contribs&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufadell&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
