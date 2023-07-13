@@ -22,7 +22,7 @@ jobs:
           committer_message: "build: update `${filename}`"
 
           # Options
-          user: yusufadell
+          user: imperiumx
           template: classic
           base: header, activity, community
           config_timezone: Africa/Cairo
@@ -40,7 +40,7 @@ jobs:
           committer_message: "build: update `${filename}`"
 
           # Options
-          user: yusufadell
+          user: imperiumx
           template: classic
           base: ""
           config_display: large
@@ -55,7 +55,7 @@ jobs:
           plugin_wakatime_repositories_visibility: all
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: yusufadell
+          plugin_wakatime_user: imperiumx
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
 
       - name: Checkout Repository
@@ -77,7 +77,7 @@ jobs:
           committer_message: "build: update `${filename}`"
 
           # Options
-          user: yusufadell
+          user: imperiumx
           template: classic
           base: ""
           config_display: large
