@@ -104,52 +104,19 @@
 
 </details>
 
-<br>
+Email 💌: <a href="mailto:yusufadell.dev@gmail.com" title="Gmail">yusufadell.dev@gmail.com</a>
 
-<h2 align="center"> Skills </h2>
+`Send me a massage if you'd like to offer an` **opportunity** , `I'm always` **happy to support** `others and` **I love hearing** `different stories`
 
-<br>
-
-<div align="center">
-
-<a href= https://github.com/yusufadell> <img width ='32px' src ='icons/python.svg'></a>
-<a href= https://github.com/yusufadell> <img width ='32px' src ='icons/linux.svg'></a>
-<a href= https://github.com/yusufadell> <img width ='32px' src ='icons/django.svg'></a>
-<a href= https://github.com/yusufadell> <img width ='32px' src ='icons/postgresql.svg'></a>
-<a href= https://github.com/yusufadell> <img width ='32px' src ='icons/sql.svg'></a>
-<a href= https://github.com/yusufadell> <img width ='32px' src ='icons/git.svg'></a>
-<a href= https://github.com/yusufadell> <img width ='32px' src ='icons/github.svg'></a>
-<a href= https://github.com/yusufadell> <img width ='32px' src ='icons/cpp.svg'></a>
-<a href= https://github.com/yusufadell> <img width ='32px' src ='icons/azure.svg'></a>
-<a href= https://github.com/yusufadell> <img width ='32px' src ='icons/heroku.svg'></a>
-
-</div>
-
-<br>
-
-<h2 align="center"> Connect</h2>
-
-<div align="center">
-
-<a href = 'https://www.linkedin.com/in/yusufadel'> <img width = '32px' align= 'center' src="./icons/linked-in-alt.svg"/></a>
-<a href = 'https://www.twitter.com/WHYUSUF_'> <img width = '32px' align= 'center' src="./icons/twitter.svg"/></a>
-<a href = 'https://dev.to/yusufadel'> <img width = '32px' align= 'center' src="./icons/dev.svg"/></a>
-<a href = 'https://yusufadell.github.io'> <img width = '32px' align= 'center' src="./icons/portfolio.svg"/></a>
-<a href = 'https://www.github.com/yusufadell'> <img width = '32px' align= 'center' src='./icons/github.svg'/></a>
-
-</div>
-
-<br>
-
+<details open>
+    <summary><h2>📊 My Github Stats</h2></summary>
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imperiumx&theme=neon-palenight&date_format=M%20j%5B%2C%20Y%5D)](https://github-readme-streak-stats.herokuapp.com/?user=yusufadell&theme=neon-palenight&date_format=M%20j%5B%2C%20Y%5D)
 
-![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=imperiumx&hide=contribs&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imperiumx&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufadell&hide=contribs&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufadell&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](https://raw.githubusercontent.com/yusufadell/-profile-summary-cards/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yusufadell&theme=neon-palenight&date_format=M%20j%5B%2C%20Y%5D)](https://github-readme-streak-stats.herokuapp.com/?user=yusufadell&theme=neon-palenight&date_format=M%20j%5B%2C%20Y%5D)
 
 <br>
 
