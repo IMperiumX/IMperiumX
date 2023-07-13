@@ -24,9 +24,9 @@
   </a>
 </div>
 
-![Metrics](https://raw.githubusercontent.com/yusufadell/yusufadell/github-metrics/github-metrics.svg)
-![Notable contributions](https://raw.githubusercontent.com/yusufadell/yusufadell/github-metrics/notable.svg)
-![Achievements](https://raw.githubusercontent.com/yusufadell/yusufadell/github-metrics/achievements.svg)
+![Metrics](https://raw.githubusercontent.com/imperiumx/imperiumx/github-metrics/github-metrics.svg)
+![Notable contributions](https://raw.githubusercontent.com/imperiumx/imperiumx/github-metrics/notable.svg)
+![Achievements](https://raw.githubusercontent.com/imperiumx/imperiumx/github-metrics/achievements.svg)
 
 <div align="center">
 
@@ -112,11 +112,11 @@ Email 💌: <a href="mailto:yusufadell.dev@gmail.com" title="Gmail">yusufadell.d
     <summary><h2>📊 My Github Stats</h2></summary>
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imperiumx&theme=neon-palenight&date_format=M%20j%5B%2C%20Y%5D)](https://github-readme-streak-stats.herokuapp.com/?user=yusufadell&theme=neon-palenight&date_format=M%20j%5B%2C%20Y%5D)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imperiumx&theme=neon-palenight&date_format=M%20j%5B%2C%20Y%5D)](https://github-readme-streak-stats.herokuapp.com/?user=imperiumx&theme=neon-palenight&date_format=M%20j%5B%2C%20Y%5D)
 
-![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufadell&hide=contribs&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufadell&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=imperiumx&hide=contribs&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imperiumx&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](https://raw.githubusercontent.com/yusufadell/-profile-summary-cards/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/imperiumx/-profile-summary-cards/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <br>
 
