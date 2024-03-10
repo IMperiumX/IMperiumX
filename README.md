@@ -5,7 +5,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=IMperiumX&style=flat-square&color=blue" alt="Profile Views"/>
 
-<a href="https://twitter.com/WHYUSUF_">
+<div align="left">
+  <a href="https://twitter.com/WHYUSUF_">
     <img
       src="https://img.shields.io/twitter/follow/WHYUSUF_?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
       alt="Twitter"
@@ -22,7 +23,8 @@
     <img
       width="256"
       align="right"
-      src="https://github.com/yusufadell/yusufadell/blob/devcard/devcard.svg"
+      src="https://github.com/imperiumx/imperiumx/blob/devcard/devcard.svg"
+      alt="Yusuf Adel's Dev Card"
     />
   </a>
 </div>
@@ -34,9 +36,15 @@
 <div align="center">
 
 <h2> Connect 👀</h2>
-<a href = 'https://www.linkedin.com/in/yusufadell'> <img width='35' src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href = 'https://www.twitter.com/WHYUSUF_'> <img width='35' src="https://skillicons.dev/icons?i=twitter"/></a>
-<a href = 'https://www.github.com/yusufadell'> <img width='35' src="https://skillicons.dev/icons?i=github"/></a>
+<a href = 'https://www.linkedin.com/in/yusufadell'> <img width='35' src="https://skillicons.dev/icons?i=linkedin"
+alt="LinkedIn"
+/></a>
+<a href = 'https://www.twitter.com/WHYUSUF_'> <img width='35' src="https://skillicons.dev/icons?i=twitter"
+alt="Twitter"
+/></a>
+<a href = 'https://www.github.com/imperiumx'> <img width='35' src="https://skillicons.dev/icons?i=github"
+alt="GitHub"
+/></a>
 <br>
 
 <!-- icons => &perline=3 -->
@@ -49,34 +57,45 @@
       </tr>
       <tr>
         <td align="right">Core</td>
-        <td><img src="https://skillicons.dev/icons?i=py,js,java,cpp,go,rust,clojure,scala,haskell,elixir" height="35px"/></td>
+        <td><img src="https://skillicons.dev/icons?i=py,js,java,cpp,go,rust,clojure,scala,haskell,elixir" height="35px" alt="Python, JavaScript, Java, C++, Go, Rust, Clojure, Scala, Haskell, Elixir"
+        /></td>
       </tr>
       <tr>
         <td align="right">Backend</td>
-        <td><img src="https://skillicons.dev/icons?i=django,py,flask,fastapi,postgres,sqlite,nodejs,rocket,rails" height="35px"/></td>
+        <td><img src="https://skillicons.dev/icons?i=django,py,flask,fastapi,postgres,sqlite,nodejs,rocket,rails" height="35px"
+        alt="Django, Python, Flask, FastAPI, Postgres, SQLite, Node.js, Rocket, Rails"
+        /></td>
       </tr>
       <tr>
         <td align="right">Frontend</td>
-        <td><img src="https://skillicons.dev/icons?i=react,redux,svelte,html,css,tailwind,sass,vite,jquery" height="35px"/></td>
+        <td><img src="https://skillicons.dev/icons?i=react,redux,svelte,html,css,tailwind,sass,vite,jquery" height="35px"
+        alt="React, Redux, Svelte, HTML, CSS, Tailwind, Sass, Vite, jQuery"
+        /></td>
       </tr>
       <tr>
         <td align="right">Server</td>
-        <td><img src="https://skillicons.dev/icons?i=heroku,azure,docker,githubactions,gcp,nginx,grafana,prometheus" height="35px"/></td>
+        <td><img src="https://skillicons.dev/icons?i=heroku,azure,docker,githubactions,gcp,nginx,grafana,prometheus" height="35px"
+        alt="Heroku, Azure, Docker, GitHub Actions, GCP, Nginx, Grafana, Prometheus"
+        /></td>
       </tr>
       <tr>
         <td align="right">Miscellaneous</td>
-        <td><img src="https://skillicons.dev/icons?i=linux,bash,markdown,selenium,regex,git,github,powershell,vscode,atom,visualstudio" height="35px"/></td>
+        <td><img src="https://skillicons.dev/icons?i=linux,bash,markdown,selenium,regex,git,github,powershell,vscode,atom,visualstudio" height="35px"
+        alt="Linux, Bash, Markdown, Selenium, Regex, Git, GitHub, PowerShell, VSCode, Atom, Visual Studio"
+        /></td>
       </tr>
       <tr>
         <td align="right">Creative</td>
-        <td><img src="https://skillicons.dev/icons?i=blender,unity,ableton,ae,au,ps,pr,ai" height="35px"/></td>
+        <td><img src="https://skillicons.dev/icons?i=blender,unity,ableton,ae,au,ps,pr,ai" height="35px"/
+        alt="Blender, Unity, Ableton, After Effects, Audition, Photoshop, Premiere, Illustrator"
+        ></td>
       </tr>
     </table>
   </details>
 
  </div>
 
- <details >
+ <details open>
     <summary><h2> More details about me</h2></summary>
 
 ## About Me 🌀
@@ -107,7 +126,7 @@
 
 </details>
 
-Email 💌: <a href="mailto:yusufadell.dev@gmail.com" title="Gmail">yusufadell.dev@gmail.com</a>
+Email 💌: <a href="mailto:yusufadell.dev@gmail.com" title="Gmail">Youcef Adel.dev@gmail.com</a>
 
 `Send me a massage if you'd like to offer an` **opportunity** , `I'm always` **happy to support** `others and` **I love hearing** `different stories`
 
@@ -119,12 +138,12 @@ Email 💌: <a href="mailto:yusufadell.dev@gmail.com" title="Gmail">yusufadell.d
 
 ![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=imperiumx&hide=contribs&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imperiumx&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](https://raw.githubusercontent.com/imperiumx/-profile-summary-cards/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Summary Card](https://raw.githubusercontent.com/imperiumx/-profile-summary-cards/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="700"/><br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="300"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="700" alt="Dino" /><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="300" alt="This page is" />
 </div>
 
 </details>
