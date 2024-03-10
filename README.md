@@ -3,8 +3,9 @@
 
 ![Free Palestine!](https://camo.githubusercontent.com/1001b2e8cc187a1b0f6d763935ab994a4a79c0090e13752ad68027b8111b152f/68747470733a2f2f62616467652e74656368666f7270616c657374696e652e6f72672f64656661756c74)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=IMperiumX.IMperiumX)<div align="left">
-  <a href="https://twitter.com/WHYUSUF_">
+<img src="https://komarev.com/ghpvc/?username=IMperiumX&style=flat-square&color=blue" alt="Profile Views"/>
+
+<a href="https://twitter.com/WHYUSUF_">
     <img
       src="https://img.shields.io/twitter/follow/WHYUSUF_?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
       alt="Twitter"
