@@ -46,55 +46,6 @@ alt="Twitter"
 alt="GitHub"
 /></a>
 <br>
-
-<!-- icons => &perline=3 -->
- <details open>
-    <summary><h1>🛠️ Development Stack</h1></summary>
-    <table>
-      <tr>
-        <th align="right">Category</th>
-        <th align="left">Technologies</th>
-      </tr>
-      <tr>
-        <td align="right">Core</td>
-        <td><img src="https://skillicons.dev/icons?i=py,js,java,cpp,go,rust,clojure,scala,haskell,elixir" height="35px" alt="Python, JavaScript, Java, C++, Go, Rust, Clojure, Scala, Haskell, Elixir"
-        /></td>
-      </tr>
-      <tr>
-        <td align="right">Backend</td>
-        <td><img src="https://skillicons.dev/icons?i=django,py,flask,fastapi,postgres,sqlite,nodejs,rocket,rails" height="35px"
-        alt="Django, Python, Flask, FastAPI, Postgres, SQLite, Node.js, Rocket, Rails"
-        /></td>
-      </tr>
-      <tr>
-        <td align="right">Frontend</td>
-        <td><img src="https://skillicons.dev/icons?i=react,redux,svelte,html,css,tailwind,sass,vite,jquery" height="35px"
-        alt="React, Redux, Svelte, HTML, CSS, Tailwind, Sass, Vite, jQuery"
-        /></td>
-      </tr>
-      <tr>
-        <td align="right">Server</td>
-        <td><img src="https://skillicons.dev/icons?i=heroku,azure,docker,githubactions,gcp,nginx,grafana,prometheus" height="35px"
-        alt="Heroku, Azure, Docker, GitHub Actions, GCP, Nginx, Grafana, Prometheus"
-        /></td>
-      </tr>
-      <tr>
-        <td align="right">Miscellaneous</td>
-        <td><img src="https://skillicons.dev/icons?i=linux,bash,markdown,selenium,regex,git,github,powershell,vscode,atom,visualstudio" height="35px"
-        alt="Linux, Bash, Markdown, Selenium, Regex, Git, GitHub, PowerShell, VSCode, Atom, Visual Studio"
-        /></td>
-      </tr>
-      <tr>
-        <td align="right">Creative</td>
-        <td><img src="https://skillicons.dev/icons?i=blender,unity,ableton,ae,au,ps,pr,ai" height="35px"/
-        alt="Blender, Unity, Ableton, After Effects, Audition, Photoshop, Premiere, Illustrator"
-        ></td>
-      </tr>
-    </table>
-  </details>
-
- </div>
-
  <details open>
     <summary><h2> More details about me</h2></summary>
 
