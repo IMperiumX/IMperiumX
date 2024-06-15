@@ -53,7 +53,6 @@
  <summary>
   <h2> More details about me</h2>
  </summary>
-Sure, here's an updated version of the GitHub README section tailored for your current role as a backend developer in the fintech industry:
 
 ## About Me 🌀
 
@@ -77,6 +76,8 @@ As a backend developer in the fintech industry, I possess a deep understanding o
 * Committed to continuously expanding my technical expertise and soft skills to deliver exceptional value and contribute to organizational success.
 * Passionate about exploring emerging technologies and their potential applications in the fintech domain, focusing on enhancing security, scalability, and user experience.
 * Actively seeking opportunities to collaborate with industry experts and thought leaders to stay ahead of the curve.
+
+</details>
 
 ## Connect with Me 🤝
 
